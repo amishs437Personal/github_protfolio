@@ -52,7 +52,7 @@ const pinnedProjects = [
     languageColor: "#00ADD8",
     stars: 421,
     forks: 78,
-    image: "public/Screenshot 2026-01-01 215026.png",
+    image: "/Screenshot 2026-01-01 215026.png",
     url: "https://foxjewels.vercel.app/",
     topics: ["go", "cli", "github-api"],
   },
